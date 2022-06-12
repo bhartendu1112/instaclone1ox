@@ -1,0 +1,24 @@
+
+            [
+            {"name":"Deekshith D V",
+            "location":"U S A",
+            "likes":64,
+            "description": "Kick start your career",
+            "PostImage": "https://www.koimoi.com/wp-content/new-galleries/2021/08/zendaya-talks-about-spider-man-no-way-home-her-future-in-mcu-001.jpg",
+            "date": "12-11-2022"
+            },
+            {"name":"Peter Parker",
+            "location":"U S A",
+            "likes":30,
+            "description": "Sample Description",
+            "PostImage": "https://images.hindustantimes.com/img/2021/11/09/1600x900/spider-man_no_way_home_1636451315678_1636451323010.png",
+            "date": "15-06-2022"
+            },
+            {"name":"Anime",
+            "location":"U K",
+            "likes":30,
+            "description": "Sample Description for Post",
+            "PostImage": "https://gumlet.assettype.com/freepressjournal/2021-08/918e9890-5b62-4ba8-98ad-49194d520c63/Untitled_design__26_.png?format=webp&w=400&dpr=2.6",
+            "date": "14-09-2021"
+            }
+            ]

@@ -1,0 +1,105 @@
+.for-icon{
+    position: relative;
+    top: 20px;
+    width: 64px;
+    height: 64px;
+    margin: 15px;
+}
+.for-name{
+    font: normal normal normal 64px/71px Palatino;
+    letter-spacing: 0px;
+    color: #006238;
+    opacity: 1;
+}
+.for-camera{
+    width: 48px;
+    height: 48px;
+    float: right;  
+}
+.for-header{
+    border-bottom: solid #006238 1px;
+}
+.for-icon,.for-camera,.for-name{
+    display: inline-block;
+}
+.inside-container{
+    width: 800px;
+    height: 700px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 10px;    
+    opacity: 1;
+}
+.main-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 40px;
+}
+.Name{
+    margin: 20px;
+    display: block;
+}
+.profile-location{
+    opacity: 0.4;
+    margin: 3px;
+    font-size: 20px;
+}
+.profile-name{
+    margin: 3px;
+}
+.more-icon{
+    width: 32px;
+    height: 8px;
+    position: relative;
+    top: -70px;
+    float: right;
+    margin: 0;
+    padding: 0;
+    margin-right: 20px;
+}
+.profile-image{
+    width: 800px;
+    height: 400px;
+    margin: 0px;
+    padding: 0px;
+}
+.imglike{
+    width: 32px;
+    height: 32px;
+    margin: 10px;
+    padding: 0;
+}
+.share{
+    width: 32px;
+    height: 32px;
+    margin: 10px;
+    padding: 0;
+}
+.date{
+    margin: 20px;
+    padding: 0;
+    float: right;
+    width: 124px;
+    font: normal normal normal 20px/24px Verdana;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.like{
+    margin: 10px;
+    padding: 0;
+    font: normal normal normal 20px/24px Verdana;
+    letter-spacing: 0px;
+    color: #707070;
+    opacity: 1;
+}
+.description{
+    margin: 10px;
+    padding: 0;
+    text-align: left;
+    font: normal normal bold 28px/34px Helvetica;
+    letter-spacing: 0px;    
+    color: #000000;
+    opacity: 1;
+}
